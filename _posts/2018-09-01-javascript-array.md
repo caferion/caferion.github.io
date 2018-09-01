@@ -9,8 +9,6 @@ tag:
 comments: true
 ---
 
-# 자바스크립트 배열을 좀 더 잘 사용 하는 방법
-
 [원글: Here’s how you can make better use of JavaScript arrays](https://medium.freecodecamp.org/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c)
 
 ### 1. Array.indecOf를 Array. includes로 교체하자
