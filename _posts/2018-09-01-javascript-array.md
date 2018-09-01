@@ -1,4 +1,3 @@
-```
 ---
 layout: post
 title:  "자바스크립트 배열을 좀 더 잘 사용 하는 방법"
@@ -9,7 +8,6 @@ tag:
 - javascript
 comments: true
 ---
-```
 
 # 자바스크립트 배열을 좀 더 잘 사용 하는 방법
 
