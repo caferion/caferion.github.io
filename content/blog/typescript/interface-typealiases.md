@@ -1,4 +1,9 @@
-## Interface & Type Aliases
+---
+title: 'TypeScirpt #2 Interface & Type Aliases'
+date: 2021-01-25 21:30:00
+category: 'typescript'
+draft: false
+---
 
 ### 1) Type Alias
 
