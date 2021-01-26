@@ -235,3 +235,7 @@ export type JSONValue = number | string | boolean | JSONArray | JSONObject
 export type JSONArray = JSONValue[]
 export type JSONObject = { [key: string]: JSONValue }
 ```
+
+## 참조
+
+https://frontendmasters.com/courses/typescript-v2/
